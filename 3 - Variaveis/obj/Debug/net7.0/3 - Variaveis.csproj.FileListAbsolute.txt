@@ -1,0 +1,15 @@
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\3 - Variaveis.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\3 - Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\3 - Variaveis.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\3 - Variaveis.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\3 - Variaveis.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\3 - Variaveis\bin\Debug\net7.0\3 - Variaveis.exe
+C:\TreinaWeb\Csharp\3 - Variaveis\bin\Debug\net7.0\3 - Variaveis.deps.json
+C:\TreinaWeb\Csharp\3 - Variaveis\bin\Debug\net7.0\3 - Variaveis.runtimeconfig.json
+C:\TreinaWeb\Csharp\3 - Variaveis\bin\Debug\net7.0\3 - Variaveis.dll
+C:\TreinaWeb\Csharp\3 - Variaveis\bin\Debug\net7.0\3 - Variaveis.pdb
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\3 - Variaveis.dll
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\refint\3 - Variaveis.dll
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\3 - Variaveis.pdb
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\3 - Variaveis.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\3 - Variaveis\obj\Debug\net7.0\ref\3 - Variaveis.dll

@@ -1,0 +1,15 @@
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\bin\Debug\net7.0\2 - LeituraEscrita.exe
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\bin\Debug\net7.0\2 - LeituraEscrita.deps.json
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\bin\Debug\net7.0\2 - LeituraEscrita.runtimeconfig.json
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\bin\Debug\net7.0\2 - LeituraEscrita.dll
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\bin\Debug\net7.0\2 - LeituraEscrita.pdb
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\2 - LeituraEscrita.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\2 - LeituraEscrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\2 - LeituraEscrita.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\2 - LeituraEscrita.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\2 - LeituraEscrita.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\2 - LeituraEscrita.dll
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\refint\2 - LeituraEscrita.dll
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\2 - LeituraEscrita.pdb
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\2 - LeituraEscrita.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\2 - LeituraEscrita\obj\Debug\net7.0\ref\2 - LeituraEscrita.dll

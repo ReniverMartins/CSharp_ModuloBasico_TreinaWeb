@@ -1,0 +1,30 @@
+C:\TreinaWeb\Csharp\ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.exe
+C:\TreinaWeb\Csharp\ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.deps.json
+C:\TreinaWeb\Csharp\ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.runtimeconfig.json
+C:\TreinaWeb\Csharp\ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.dll
+C:\TreinaWeb\Csharp\ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.pdb
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.dll
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\refint\ProjectHelloWorld.dll
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.pdb
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\ProjectHelloWorld\obj\Debug\net7.0\ref\ProjectHelloWorld.dll
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.exe
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.deps.json
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.runtimeconfig.json
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.dll
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\bin\Debug\net7.0\ProjectHelloWorld.pdb
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.dll
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\refint\ProjectHelloWorld.dll
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.pdb
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\ProjectHelloWorld.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\1 - ProjectHelloWorld\obj\Debug\net7.0\ref\ProjectHelloWorld.dll
