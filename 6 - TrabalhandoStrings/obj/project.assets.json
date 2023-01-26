@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj",
-      "projectName": "ProjectHelloWorld",
-      "projectPath": "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj",
+      "projectUniqueName": "C:\\TreinaWeb\\Csharp\\6 - TrabalhandoStrings\\6 - TrabalhandoStrings.csproj",
+      "projectName": "6 - TrabalhandoStrings",
+      "projectPath": "C:\\TreinaWeb\\Csharp\\6 - TrabalhandoStrings\\6 - TrabalhandoStrings.csproj",
       "packagesPath": "C:\\Users\\rkmdsilva\\.nuget\\packages\\",
-      "outputPath": "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\obj\\",
+      "outputPath": "C:\\TreinaWeb\\Csharp\\6 - TrabalhandoStrings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

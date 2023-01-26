@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj": {}
+    "C:\\TreinaWeb\\Csharp\\5 - ConversaoTipos\\5 - ConversaoTipos.csproj": {}
   },
   "projects": {
-    "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj": {
+    "C:\\TreinaWeb\\Csharp\\5 - ConversaoTipos\\5 - ConversaoTipos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj",
-        "projectName": "ProjectHelloWorld",
-        "projectPath": "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj",
+        "projectUniqueName": "C:\\TreinaWeb\\Csharp\\5 - ConversaoTipos\\5 - ConversaoTipos.csproj",
+        "projectName": "5 - ConversaoTipos",
+        "projectPath": "C:\\TreinaWeb\\Csharp\\5 - ConversaoTipos\\5 - ConversaoTipos.csproj",
         "packagesPath": "C:\\Users\\rkmdsilva\\.nuget\\packages\\",
-        "outputPath": "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\obj\\",
+        "outputPath": "C:\\TreinaWeb\\Csharp\\5 - ConversaoTipos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

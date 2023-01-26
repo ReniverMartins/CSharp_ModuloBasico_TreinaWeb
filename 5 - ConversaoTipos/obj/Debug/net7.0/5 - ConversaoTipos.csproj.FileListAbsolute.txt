@@ -1,0 +1,15 @@
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\bin\Debug\net7.0\5 - ConversaoTipos.exe
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\bin\Debug\net7.0\5 - ConversaoTipos.deps.json
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\bin\Debug\net7.0\5 - ConversaoTipos.runtimeconfig.json
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\bin\Debug\net7.0\5 - ConversaoTipos.dll
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\bin\Debug\net7.0\5 - ConversaoTipos.pdb
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\5 - ConversaoTipos.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\5 - ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\5 - ConversaoTipos.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\5 - ConversaoTipos.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\5 - ConversaoTipos.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\5 - ConversaoTipos.dll
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\refint\5 - ConversaoTipos.dll
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\5 - ConversaoTipos.pdb
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\5 - ConversaoTipos.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\5 - ConversaoTipos\obj\Debug\net7.0\ref\5 - ConversaoTipos.dll

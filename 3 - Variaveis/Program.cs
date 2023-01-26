@@ -1,6 +1,6 @@
 ﻿
 //Variavel inicialada
-int idadeProfessor = 10;
+int idadeProfessor = 10; 
 decimal salarioProfessor = 1000;
 string nomeProfessor = "Reniver Kennyster";
 

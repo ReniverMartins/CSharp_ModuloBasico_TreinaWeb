@@ -1,0 +1,15 @@
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\7 - DateTime.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\7 - DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\7 - DateTime.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\7 - DateTime.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\7 - DateTime.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\7 - DateTime\bin\Debug\net7.0\7 - DateTime.exe
+C:\TreinaWeb\Csharp\7 - DateTime\bin\Debug\net7.0\7 - DateTime.deps.json
+C:\TreinaWeb\Csharp\7 - DateTime\bin\Debug\net7.0\7 - DateTime.runtimeconfig.json
+C:\TreinaWeb\Csharp\7 - DateTime\bin\Debug\net7.0\7 - DateTime.dll
+C:\TreinaWeb\Csharp\7 - DateTime\bin\Debug\net7.0\7 - DateTime.pdb
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\7 - DateTime.dll
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\refint\7 - DateTime.dll
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\7 - DateTime.pdb
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\7 - DateTime.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\7 - DateTime\obj\Debug\net7.0\ref\7 - DateTime.dll

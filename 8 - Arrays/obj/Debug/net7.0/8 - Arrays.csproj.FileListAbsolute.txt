@@ -1,0 +1,15 @@
+C:\TreinaWeb\Csharp\8 - Arrays\bin\Debug\net7.0\8 - Arrays.exe
+C:\TreinaWeb\Csharp\8 - Arrays\bin\Debug\net7.0\8 - Arrays.deps.json
+C:\TreinaWeb\Csharp\8 - Arrays\bin\Debug\net7.0\8 - Arrays.runtimeconfig.json
+C:\TreinaWeb\Csharp\8 - Arrays\bin\Debug\net7.0\8 - Arrays.dll
+C:\TreinaWeb\Csharp\8 - Arrays\bin\Debug\net7.0\8 - Arrays.pdb
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\8 - Arrays.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\8 - Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\8 - Arrays.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\8 - Arrays.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\8 - Arrays.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\8 - Arrays.dll
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\refint\8 - Arrays.dll
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\8 - Arrays.pdb
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\8 - Arrays.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\8 - Arrays\obj\Debug\net7.0\ref\8 - Arrays.dll

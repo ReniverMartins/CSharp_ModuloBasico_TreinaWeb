@@ -1,0 +1,15 @@
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\bin\Debug\net7.0\6 - TrabalhandoStrings.exe
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\bin\Debug\net7.0\6 - TrabalhandoStrings.deps.json
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\bin\Debug\net7.0\6 - TrabalhandoStrings.runtimeconfig.json
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\bin\Debug\net7.0\6 - TrabalhandoStrings.dll
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\bin\Debug\net7.0\6 - TrabalhandoStrings.pdb
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\6 - TrabalhandoStrings.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\6 - TrabalhandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\6 - TrabalhandoStrings.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\6 - TrabalhandoStrings.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\6 - TrabalhandoStrings.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\6 - TrabalhandoStrings.dll
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\refint\6 - TrabalhandoStrings.dll
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\6 - TrabalhandoStrings.pdb
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\6 - TrabalhandoStrings.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\6 - TrabalhandoStrings\obj\Debug\net7.0\ref\6 - TrabalhandoStrings.dll

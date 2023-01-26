@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj": {}
+    "C:\\TreinaWeb\\Csharp\\7 - DateTime\\7 - DateTime.csproj": {}
   },
   "projects": {
-    "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj": {
+    "C:\\TreinaWeb\\Csharp\\7 - DateTime\\7 - DateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj",
-        "projectName": "ProjectHelloWorld",
-        "projectPath": "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\ProjectHelloWorld.csproj",
+        "projectUniqueName": "C:\\TreinaWeb\\Csharp\\7 - DateTime\\7 - DateTime.csproj",
+        "projectName": "7 - DateTime",
+        "projectPath": "C:\\TreinaWeb\\Csharp\\7 - DateTime\\7 - DateTime.csproj",
         "packagesPath": "C:\\Users\\rkmdsilva\\.nuget\\packages\\",
-        "outputPath": "C:\\TreinaWeb\\Csharp\\1 - ProjectHelloWorld\\obj\\",
+        "outputPath": "C:\\TreinaWeb\\Csharp\\7 - DateTime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
