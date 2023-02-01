@@ -1,0 +1,15 @@
+C:\TreinaWeb\Csharp\12 - Try-Catch\bin\Debug\net7.0\12 - Try-Catch.exe
+C:\TreinaWeb\Csharp\12 - Try-Catch\bin\Debug\net7.0\12 - Try-Catch.deps.json
+C:\TreinaWeb\Csharp\12 - Try-Catch\bin\Debug\net7.0\12 - Try-Catch.runtimeconfig.json
+C:\TreinaWeb\Csharp\12 - Try-Catch\bin\Debug\net7.0\12 - Try-Catch.dll
+C:\TreinaWeb\Csharp\12 - Try-Catch\bin\Debug\net7.0\12 - Try-Catch.pdb
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\12 - Try-Catch.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\12 - Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\12 - Try-Catch.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\12 - Try-Catch.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\12 - Try-Catch.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\12 - Try-Catch.dll
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\refint\12 - Try-Catch.dll
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\12 - Try-Catch.pdb
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\12 - Try-Catch.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\12 - Try-Catch\obj\Debug\net7.0\ref\12 - Try-Catch.dll

@@ -1,0 +1,15 @@
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\10 - metodos.csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\10 - metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\10 - metodos.AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\10 - metodos.AssemblyInfo.cs
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\10 - metodos.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\10 - metodos\bin\Debug\net7.0\10 - metodos.exe
+C:\TreinaWeb\Csharp\10 - metodos\bin\Debug\net7.0\10 - metodos.deps.json
+C:\TreinaWeb\Csharp\10 - metodos\bin\Debug\net7.0\10 - metodos.runtimeconfig.json
+C:\TreinaWeb\Csharp\10 - metodos\bin\Debug\net7.0\10 - metodos.dll
+C:\TreinaWeb\Csharp\10 - metodos\bin\Debug\net7.0\10 - metodos.pdb
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\10 - metodos.dll
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\refint\10 - metodos.dll
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\10 - metodos.pdb
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\10 - metodos.genruntimeconfig.cache
+C:\TreinaWeb\Csharp\10 - metodos\obj\Debug\net7.0\ref\10 - metodos.dll

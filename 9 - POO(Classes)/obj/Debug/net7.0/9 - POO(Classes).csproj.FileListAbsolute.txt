@@ -1,0 +1,15 @@
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\9 - POO(Classes).csproj.AssemblyReference.cache
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\9 - POO(Classes).GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\9 - POO(Classes).AssemblyInfoInputs.cache
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\9 - POO(Classes).AssemblyInfo.cs
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\9 - POO(Classes).csproj.CoreCompileInputs.cache
+C:\TreinaWeb\Csharp\9 - POO(Classes)\bin\Debug\net7.0\9 - POO(Classes).exe
+C:\TreinaWeb\Csharp\9 - POO(Classes)\bin\Debug\net7.0\9 - POO(Classes).deps.json
+C:\TreinaWeb\Csharp\9 - POO(Classes)\bin\Debug\net7.0\9 - POO(Classes).runtimeconfig.json
+C:\TreinaWeb\Csharp\9 - POO(Classes)\bin\Debug\net7.0\9 - POO(Classes).dll
+C:\TreinaWeb\Csharp\9 - POO(Classes)\bin\Debug\net7.0\9 - POO(Classes).pdb
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\9 - POO(Classes).dll
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\refint\9 - POO(Classes).dll
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\9 - POO(Classes).pdb
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\9 - POO(Classes).genruntimeconfig.cache
+C:\TreinaWeb\Csharp\9 - POO(Classes)\obj\Debug\net7.0\ref\9 - POO(Classes).dll

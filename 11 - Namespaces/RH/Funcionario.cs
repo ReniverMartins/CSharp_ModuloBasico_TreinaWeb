@@ -1,0 +1,5 @@
+namespace RH{
+    class Funcionario{
+        
+    }
+}
